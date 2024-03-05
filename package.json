@@ -1,0 +1,22 @@
+{
+    "name": "parmenion-eth",
+    "version": "1.0.0",
+    "description": "An interacting with Ethereum blockchain with parmenion",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "web3",
+        "ethereum"
+    ],
+    "author": "parmenion",
+    "license": "MIT",
+    "dependencies": {
+        "web3": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Parmenion23/parmenion-eth.git"
+      }
+}
